@@ -1,22 +1,22 @@
 {
-  "name": "mocking-practice-jesting",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "jest -coverage"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/totalnoMartina/mocking-practice-jesting.git"
-  },
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/totalnoMartina/mocking-practice-jesting/issues"
-  },
-  "homepage": "https://github.com/totalnoMartina/mocking-practice-jesting#readme",
-  "devDependencies": {
-    "jest": "^27.4.7"
-  }
+    "name": "mocking-practice-jesting",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "jest --coverage"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/totalnoMartina/mocking-practice-jesting.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/totalnoMartina/mocking-practice-jesting/issues"
+    },
+    "homepage": "https://github.com/totalnoMartina/mocking-practice-jesting#readme",
+    "devDependencies": {
+        "jest": "^27.4.7"
+    }
 }
