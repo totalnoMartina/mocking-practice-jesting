@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1642545652001" clover="3.2.0">
-  <project timestamp="1642545652001" name="All files">
-    <metrics statements="2" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0" elements="3" coveredelements="1" complexity="0" loc="2" ncloc="2" packages="1" files="1" classes="1"/>
+<coverage generated="1642551447882" clover="3.2.0">
+  <project timestamp="1642551447882" name="All files">
+    <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1" elements="3" coveredelements="3" complexity="0" loc="2" ncloc="2" packages="1" files="1" classes="1"/>
     <file name="button.js" path="/workspace/mocking-practice-jesting/03_mocking/scripts/button.js">
-      <metrics statements="2" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
-      <line num="2" count="0" type="stmt"/>
+      <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <line num="2" count="1" type="stmt"/>
       <line num="5" count="1" type="stmt"/>
     </file>
   </project>
